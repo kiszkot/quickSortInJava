@@ -1,0 +1,45 @@
+n - Quick - IntQuick
+     25 - 0.001000 - 0.000000
+ ----
+n - Quick - IntQuick
+     50 - 0.000000 - 0.001000
+ ----
+n - Quick - IntQuick
+    100 - 0.000000 - 0.000000
+ ----
+n - Quick - IntQuick
+    200 - 0.000000 - 0.000000
+ ----
+n - Quick - IntQuick
+    400 - 0.000000 - 0.000000
+ ----
+n - Quick - IntQuick
+    800 - 0.000000 - 0.000000
+ ----
+n - Quick - IntQuick
+   1600 - 0.001000 - 0.000000
+ ----
+n - Quick - IntQuick
+   3200 - 0.001000 - 0.001000
+ ----
+n - Quick - IntQuick
+   6400 - 0.002000 - 0.001000
+ ----
+n - Quick - IntQuick
+  12800 - 0.003000 - 0.001000
+ ----
+n - Quick - IntQuick
+  25600 - 0.015000 - 0.003000
+ ----
+n - Quick - IntQuick
+  51200 - 0.031000 - 0.005000
+ ----
+n - Quick - IntQuick
+ 102400 - 0.025000 - 0.009000
+ ----
+n - Quick - IntQuick
+ 204800 - 0.048000 - 0.019000
+ ----
+n - Quick - IntQuick
+ 409600 - 0.121000 - 0.039000
+ ----

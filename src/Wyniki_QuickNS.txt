@@ -1,0 +1,7 @@
+done
+done
+done
+ascending - descending - random 
+ 0.048000 - 0.000000 - 0.000000
+ascending - descending - random 
+ 59.511000 - 0.000000 - 0.000000

@@ -1,0 +1,5 @@
+409599
+ascending - descending - random 
+ 0.046000 - 0.040000 - 0.040000
+ascending - descending - random 
+ 96.088000 - 97.343000 - 90.449000
